@@ -1,0 +1,1 @@
+This will hopefully contain an Adobe AIR widget style application that will inform a specific user on a pubnub list whose turn it is to get coffee based on a roster at a particular time of day.
